@@ -1,0 +1,35 @@
+/* CSS files add styling rules to your content */
+
+h1 {
+  /* 
+    Write rules to make all h1 elements have a black background 
+    with hot pink text. 
+  */
+}
+
+
+/* 
+Write a rule to style p tags with a Google font of your choice
+*/
+
+
+.picture-frame
+  {
+    width: 50%;
+    margin: auto;
+    border: solid black 10px;
+    padding: 5%;
+    border-radius: 8%;
+}
+
+
+/* 
+
+Bonus Challenges:
+
+1. The h2 should have a different background color and margins
+2. The image should fit in the page and not be larger than 300 pixels width
+3. Give the image a border of your choice
+4. Style the paragraph tag with at least 5 rules!
+
+-------------------------------*/
